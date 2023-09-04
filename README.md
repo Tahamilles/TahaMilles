@@ -9,8 +9,7 @@ i'm taha from Algeria, and i do content on coding and development , i really enj
 ## Skills && Experience
 * 💻 Python , C , C++
 * 📱 JS , HTML , CSS
-
-  <img src="[C:\Users\taha\Downloads\527a9783c28c70962773a73db797ea4d.gif](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)" width="256"/>
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400">
 
 - 🔭 I’m currently working on my own company  
 - 🌱 I’m currently learning Java , javascript 
