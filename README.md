@@ -3,7 +3,7 @@
 
 # Hi there 👋, i'm Taha Milles
 
-i'm taha from Algeria, and i do content on coding and development , i really enjoy learning coding languages like python,c,c++ and java, as well as work in wordPress. i also enjoy developing new sites and stuf.
+I'm taha from Algeria, and i do content on coding and development , I really enjoy learning coding languages like python, c , c++ and java, as well as working in wordPress. I also enjoy developing new sites and stuff.
 
 
 ## Skills && Experience
