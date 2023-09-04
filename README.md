@@ -1,10 +1,13 @@
-### Hi there 👋, Taha Milles
-#### Software and development
+
 ![Software and development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-i'm taha from Algeria, and i do content on coding and development , i really enjoy learning coding languages like python,c,c++ and java, as well as work in wordPress. i also enjoy developing new sites and stuf 
+### Hi there 👋, Taha Milles
+#### Software and development
 
-Skills: Python / C / C++ / JS / HTML / CSS
+i'm taha from Algeria, and i do content on coding and development , i really enjoy learning coding languages like python,c,c++ and java, as well as work in wordPress. i also enjoy developing new sites and stuf 
+###Skills && Experience
+*💻 Python , C , C++
+*📱 JS , HTML , CSS
 
 - 🔭 I’m currently working on my own company  
 - 🌱 I’m currently learning Java , javascript 
@@ -20,5 +23,4 @@ Skills: Python / C / C++ / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/Tahamilles)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tahamilles)  
-
 
