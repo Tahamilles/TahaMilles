@@ -10,6 +10,8 @@ i'm taha from Algeria, and i do content on coding and development , i really enj
 * 💻 Python , C , C++
 * 📱 JS , HTML , CSS
 
+  <img src="C:\Users\taha\Downloads\527a9783c28c70962773a73db797ea4d.gif" width="256"/>
+
 - 🔭 I’m currently working on my own company  
 - 🌱 I’m currently learning Java , javascript 
 - 📫 How to reach me: Tahamille2@gmail.com 
